@@ -11,4 +11,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
+    {
+        "device_id": "1d5dd95d77cd2fed",
+        "key": "wincare1",
+        "expirydate": "15-06-2050",
+        "Allowoffline": false
+    }
 ]
