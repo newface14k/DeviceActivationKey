@@ -28,5 +28,11 @@
         "key": "wincare2",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "65ddea1a94ee6230",
+        "key": "lge11",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
