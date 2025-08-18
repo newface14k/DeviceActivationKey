@@ -34,5 +34,10 @@
         "key": "lge11",
         "expirydate": "15-06-2027",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "68417bb63c0e9f6e",
+        "key": "richy1",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
 ]
