@@ -13,14 +13,14 @@
     },
     {
         "device_id": "5b1411042df9cc67",
-        "key": "wincare",
-        "expirydate": "15-06-2027",
+        "key": "test1",
+        "expirydate": "15-06-2028",
         "Allowoffline": true
     },
     {
         "device_id": "81f7139c2f7f9a26",
-        "key": "wincare1",
-        "expirydate": "15-06-2027",
+        "key": "stock",
+        "expirydate": "15-06-2066",
         "Allowoffline": false
     },
     {
