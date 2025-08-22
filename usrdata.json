@@ -40,5 +40,11 @@
         "key": "richy1",
         "expirydate": "15-06-2037",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c71e6fdef66d51fc",
+        "key": "richy2",
+        "expirydate": "15-06-2037",
+        "Allowoffline": false
     }
 ]
