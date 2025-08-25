@@ -24,6 +24,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "a508be22f9fbf38d",
+        "key": "stock1",
+        "expirydate": "15-06-2066",
+        "Allowoffline": false
+    },
+    {
         "device_id": "fe0cd9b9b7bdc97d",
         "key": "wincare2",
         "expirydate": "15-06-2027",
