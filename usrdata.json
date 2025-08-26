@@ -52,5 +52,11 @@
         "key": "richy2",
         "expirydate": "15-06-2037",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b0b4278d84b45542",
+        "key": "richy2",
+        "expirydate": "15-06-2037",
+        "Allowoffline": false
     }
 ]
