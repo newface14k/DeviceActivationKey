@@ -46,6 +46,12 @@
         "key": "lge22",
         "expirydate": "15-06-2037",
         "Allowoffline": false
+    },  
+    {
+        "device_id": "f2e905b0d74db318",
+        "key": "xukaxinh",
+        "expirydate": "15-06-2037",
+        "Allowoffline": false
     },
     {
         "device_id": "68417bb63c0e9f6e",
