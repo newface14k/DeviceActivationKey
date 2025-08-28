@@ -94,5 +94,11 @@
         "key": "kirin",
         "expirydate": "26-02-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "260f5d9bea6f2fca",
+        "key": "aqua",
+        "expirydate": "26-02-2040",
+        "Allowoffline": false
     }
 ]
