@@ -96,6 +96,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "7b4b57c4c4dd4166",
+        "key": "kirin1",
+        "expirydate": "26-03-2030",
+        "Allowoffline": false
+    },
+    {
         "device_id": "260f5d9bea6f2fca",
         "key": "aqua",
         "expirydate": "26-02-2040",
