@@ -18,6 +18,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "85717b2095ad81ad",
+        "key": "test2",
+        "expirydate": "15-06-2066",
+        "Allowoffline": false
+    },
+    {
         "device_id": "7b080cd6526da92b",
         "key": "stock",
         "expirydate": "15-06-2066",
