@@ -48,6 +48,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "4f05b166b04dc82a",
+        "key": "huyhoang",
+        "expirydate": "16-06-2037",
+        "Allowoffline": false
+    },  
+    {
         "device_id": "c18ce06158c90af0",
         "key": "lge22",
         "expirydate": "15-06-2037",
