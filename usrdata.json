@@ -24,6 +24,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "69252340f096b601",
+        "key": "test3",
+        "expirydate": "15-06-2056",
+        "Allowoffline": false
+    },
+    {
         "device_id": "7b080cd6526da92b",
         "key": "stock",
         "expirydate": "15-06-2066",
