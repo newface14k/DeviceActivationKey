@@ -120,6 +120,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "1c21a376ee02b7cd",
+        "key": "dungdang",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "260f5d9bea6f2fca",
         "key": "aqua",
         "expirydate": "26-02-2040",
