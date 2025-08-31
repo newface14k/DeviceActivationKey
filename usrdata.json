@@ -126,6 +126,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "c482a04d37ea7793",
+        "key": "xuandat",
+        "expirydate": "25-06-2037",
+        "Allowoffline": false
+    },
+    {
         "device_id": "260f5d9bea6f2fca",
         "key": "aqua",
         "expirydate": "26-02-2040",
