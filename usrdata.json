@@ -114,6 +114,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "8918f261b786fe1c",
+        "key": "tuanrichy1",
+        "expirydate": "19-06-2029",
+        "Allowoffline": false
+    },
+    {
         "device_id": "42d0b05c1d935c69",
         "key": "kirin",
         "expirydate": "26-02-2030",
