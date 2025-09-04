@@ -148,5 +148,11 @@
         "key": "aqua",
         "expirydate": "26-02-2040",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5b38f2c67642bb49",
+        "key": "tingco",
+        "expirydate": "26-02-2040",
+        "Allowoffline": false
     }
 ]
