@@ -166,5 +166,11 @@
         "key": "tingco2",
         "expirydate": "26-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9810d7b1b1938874",
+        "key": "tingco3tingco3",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
     }
 ]
