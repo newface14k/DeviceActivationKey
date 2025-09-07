@@ -182,13 +182,13 @@
     {
         "device_id": "f6a6f083c86e3989",
         "key": "vivo1",
-        "expirydate": "26-09-2025",
+        "expirydate": "26-09-2029",
         "Allowoffline": false
     },
     {
         "device_id": "acb5d7d7b5a17ef7",
         "key": "vivo1",
-        "expirydate": "26-09-2025",
+        "expirydate": "26-09-2035",
         "Allowoffline": false
     }
 ]
