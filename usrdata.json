@@ -42,13 +42,14 @@
         "Allowoffline": false
     },
     {
-        "device_id": "fe0cd9b9b7bdc97d",
-        "k2030",
+        "device_id": "a508be22f9fbf38d",
+        "key": "stock1",
+        "expirydate": "15-06-2066",
         "Allowoffline": false
-    }, 
+    },
     {
-        "device_id": "f6a6f083c86e3989",
-        "key": "vivo1",
+        "device_id": "a562b1bef442f7c8",
+        "key": "sfathanhnguyen1",
         "expirydate": "26-09-2029",
         "Allowoffline": false
     },
