@@ -72,6 +72,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "f6a6f083c86e3989",
+        "key": "vivo1",
+        "expirydate": "26-09-2035",
+        "Allowoffline": false
+    },
+    {
         "device_id": "7d72dc2aecd0e7f8",
         "key": "vivo2",
         "expirydate": "26-09-2035",
