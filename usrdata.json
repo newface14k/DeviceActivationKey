@@ -54,6 +54,18 @@
         "Allowoffline": false
     },
     {
+        "device_id": "42d0b05c1d935c69",
+        "key": "kirin",
+        "expirydate": "15-06-2066",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "7b4b57c4c4dd4166",
+        "key": "kirin1",
+        "expirydate": "15-06-2066",
+        "Allowoffline": false
+    },
+    {
         "device_id": "a562b1bef442f7c8",
         "key": "sfathanhnguyen1",
         "expirydate": "26-09-2029",
