@@ -15,12 +15,12 @@
         "device_id": "ce115e0590bb1f3c",
         "key": "test1",
         "expirydate": "11-09-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "9c6990cbce17ab3e",
         "key": "test2",
-        "expirydate": "11-06-2025",
+        "expirydate": "11-09-2025",
         "Allowoffline": false
     },
     {
