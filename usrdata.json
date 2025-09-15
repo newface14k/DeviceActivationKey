@@ -202,6 +202,12 @@
         "key": "sfathanhnguyen1",
         "expirydate": "14-09-2045",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8d028233820c60d0",
+        "key": "sfathuy1",
+        "expirydate": "14-09-2045",
+        "Allowoffline": false
     }, 
     {
         "device_id": "f6a6f083c86e3989",
