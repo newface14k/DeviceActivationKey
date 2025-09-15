@@ -216,6 +216,12 @@
         "Allowoffline": false
     }, 
     {
+        "device_id": "c28f398a3e49b18d",
+        "key": "vietteldaile1",
+        "expirydate": "16-09-2045",
+        "Allowoffline": false
+    }, 
+    {
         "device_id": "f6a6f083c86e3989",
         "key": "vivo1",
         "expirydate": "26-09-2029",
