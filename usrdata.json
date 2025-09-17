@@ -220,6 +220,12 @@
         "key": "sfathuy1",
         "expirydate": "17-09-2065",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d4ecb037e77f5604",
+        "key": "dmsprotuyen1",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }, 
     {
         "device_id": "25425acd5db0fa24",
