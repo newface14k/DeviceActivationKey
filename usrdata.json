@@ -162,6 +162,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "1b8f66c8fc4a4db0",
+        "key": "thuongaqua",
+        "expirydate": "16-02-2040",
+        "Allowoffline": false
+    },
+    {
         "device_id": "260f5d9bea6f2fca",
         "key": "aqua",
         "expirydate": "26-02-2040",
