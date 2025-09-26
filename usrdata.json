@@ -162,6 +162,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "7c92d5a981f08750",
+        "key": "ngochaisony",
+        "expirydate": "19-06-2030",
+        "Allowoffline": false
+    },
+    {
         "device_id": "fb4e104ee87f2f18",
         "key": "haitoshiba",
         "expirydate": "19-09-2040",
