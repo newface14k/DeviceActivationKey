@@ -168,6 +168,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "02ff2d23dc4c3924",
+        "key": "hooritoshiba",
+        "expirydate": "04-10-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "fb4e104ee87f2f18",
         "key": "haitoshiba",
         "expirydate": "19-09-2040",
