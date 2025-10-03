@@ -300,6 +300,12 @@
         "Allowoffline": false
     }, 
     {
+        "device_id": "122a488affd70eeb",
+        "key": "hansudung2ngay",
+        "expirydate": "05-10-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "f6a6f083c86e3989",
         "key": "vivo1",
         "expirydate": "26-09-2029",
