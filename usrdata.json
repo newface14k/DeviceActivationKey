@@ -60,6 +60,12 @@
         "Allowoffline": false
     },  
     {
+        "device_id": "c37c57e263495f6a",
+        "key": "lamhongmai",
+        "expirydate": "15-06-2037",
+        "Allowoffline": false
+    },  
+    {
         "device_id": "c18ce06158c90af0",
         "key": "lge22",
         "expirydate": "15-06-2037",
