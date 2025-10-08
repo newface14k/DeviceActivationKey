@@ -294,6 +294,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "64e5cb2a1972b93c",
+        "key": "sfameohoang",
+        "expirydate": "14-09-2045",
+        "Allowoffline": false
+    },
+    {
         "device_id": "dfc7aa84ea8ced21",
         "key": "sfaphamphuong",
         "expirydate": "14-09-2045",
