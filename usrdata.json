@@ -180,12 +180,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "7b4b57c4c4dd4166",
-        "key": "kirin1",
-        "expirydate": "28-09-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "08c757613af4ce4a",
         "key": "dungdang11",
         "expirydate": "28-09-2035",
@@ -288,12 +282,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "84816d7570713788",
-        "key": "tingco2",
-        "expirydate": "18-09-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "9810d7b1b1938874",
         "key": "tingco33",
         "expirydate": "18-09-2035",
@@ -378,23 +366,11 @@
         "Allowoffline": false
     },
     {
-        "device_id": "d4ecb037e77f5604",
-        "key": "dmsprotuyen1",
-        "expirydate": "21-09-2025",
-        "Allowoffline": false
-    }, 
-    {
         "device_id": "25425acd5db0fa24",
         "key": "richy44",
         "expirydate": "16-09-2044",
         "Allowoffline": false
     }, 
-    {
-        "device_id": "9c116cbc43e2a856",
-        "key": "nguyenchau",
-        "expirydate": "05-10-2029",
-        "Allowoffline": false
-    },
     {
         "device_id": "122a488affd70eeb",
         "key": "tansopoka",
