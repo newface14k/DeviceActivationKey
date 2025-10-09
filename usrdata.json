@@ -402,6 +402,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "f14c10708a5a7db7",
+        "key": "daile11",
+        "expirydate": "05-10-2029",
+        "Allowoffline": false
+    },
+    {
         "device_id": "f6a6f083c86e3989",
         "key": "vivo1",
         "expirydate": "26-09-2029",
