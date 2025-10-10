@@ -402,6 +402,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "9e850a46e6e897de",
+        "key": "thienlong",
+        "expirydate": "15-10-2030",
+        "Allowoffline": false
+    },
+    {
         "device_id": "f6a6f083c86e3989",
         "key": "vivo1",
         "expirydate": "26-09-2029",
