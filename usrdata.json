@@ -54,6 +54,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "1ba1c745d3a87cf5",
+        "key": "mcssonlam",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
+    },
+    {
         "device_id": "02c3f268385b0d0c",
         "key": "mcsphankhoa",
         "expirydate": "15-06-2027",
