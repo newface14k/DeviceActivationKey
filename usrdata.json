@@ -228,6 +228,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "f2a92930673057c4",
+        "key": "vantoshiba",
+        "expirydate": "19-09-2040",
+        "Allowoffline": false
+    },
+    {
         "device_id": "2d55555ad842554c",
         "key": "duchuytoshiba",
         "expirydate": "19-09-2040",
