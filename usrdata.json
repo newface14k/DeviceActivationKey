@@ -374,7 +374,7 @@
     {
         "device_id": "a4c3fa1cb29e3a41",
         "key": "sfahanhngan",
-        "expirydate": "17-09-2035",
+        "expirydate": "16-10-2025",
         "Allowoffline": false
     },
     {
@@ -417,12 +417,6 @@
         "device_id": "122a488affd70eeb",
         "key": "tansopoka",
         "expirydate": "05-10-2029",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "c6d005ea3cc53ab9",
-        "key": "nguyenchau",
-        "expirydate": "13-10-2025",
         "Allowoffline": false
     },
     {
