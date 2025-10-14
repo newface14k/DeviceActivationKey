@@ -314,8 +314,8 @@
     {
         "device_id": "bec5496f0605eade",
         "key": "sfahapham",
-        "expirydate": "14-09-2045",
-        "Allowoffline": false
+        "expirydate": "14-11-2045",
+        "Allowoffline": true
     },
     {
         "device_id": "ac63345f338aa928",
