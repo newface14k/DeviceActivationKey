@@ -231,7 +231,7 @@
         "device_id": "02ff2d23dc4c3924",
         "key": "hooritoshiba",
         "expirydate": "04-10-2045",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "f2a92930673057c4",
