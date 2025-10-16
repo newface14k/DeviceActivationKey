@@ -132,6 +132,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "11f8871b120afa44",
+        "key": "ngocrichy",
+        "expirydate": "15-06-2037",
+        "Allowoffline": false
+    },
+    {
         "device_id": "68417bb63c0e9f6e",
         "key": "richy1",
         "expirydate": "15-06-2037",
