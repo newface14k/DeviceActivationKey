@@ -13,31 +13,13 @@
     },
     {
         "device_id": "ce115e0590bb1f3c",
-        "key": "test1",
+        "key": "test",
         "expirydate": "11-09-2035",
         "Allowoffline": true
     },
     {
-        "device_id": "9c6990cbce17ab3e",
-        "key": "test2",
-        "expirydate": "13-09-2045",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "ec675a07c3d31cf0",
-        "key": "test3",
-        "expirydate": "15-06-2056",
-        "Allowoffline": false
-    },
-    {
         "device_id": "0e6dde3486f40fcf",
         "key": "stock",
-        "expirydate": "15-06-2066",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "0e6dde3486f40fcf",
-        "key": "stock1",
         "expirydate": "15-06-2066",
         "Allowoffline": false
     },
