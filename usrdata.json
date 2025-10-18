@@ -156,6 +156,12 @@
         "Allowoffline": false
     }, 
     {
+        "device_id": "22d3c1b4a24f410e",
+        "key": "dailerichy",
+        "expirydate": "19-06-2039",
+        "Allowoffline": false
+    },
+    {
         "device_id": "3979d9de201c695c",
         "key": "tuanrichy",
         "expirydate": "19-06-2039",
