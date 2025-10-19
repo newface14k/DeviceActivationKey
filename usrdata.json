@@ -162,6 +162,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "c28f398a3e49b18d",
+        "key": "dailegps",
+        "expirydate": "19-06-2039",
+        "Allowoffline": false
+    },
+    {
         "device_id": "3979d9de201c695c",
         "key": "tuanrichy",
         "expirydate": "19-06-2039",
