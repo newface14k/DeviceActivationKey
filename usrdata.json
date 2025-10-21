@@ -21,7 +21,7 @@
         "device_id": "36dc8063175a8db0",
         "key": "stock",
         "expirydate": "15-06-2066",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "fe0cd9b9b7bdc97d",
