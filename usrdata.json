@@ -78,6 +78,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "5df314629c7a3c11",
+        "key": "dmsone1",
+        "expirydate": "15-12-2027",
+        "Allowoffline": false
+    },
+    {
         "device_id": "fbf48cc07e1ac247",
         "key": "mcsthanphong",
         "expirydate": "15-12-2027",
