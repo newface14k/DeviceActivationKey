@@ -222,6 +222,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "334691c168e04ae9",
+        "key": "dailesaleone",
+        "expirydate": "19-06-2039",
+        "Allowoffline": false
+    },
+    {
         "device_id": "435044d06d28aa98",
         "key": "dailemcs33",
         "expirydate": "19-06-2039",
