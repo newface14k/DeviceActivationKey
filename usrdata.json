@@ -240,6 +240,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "ac619a5ea7e16a96",
+        "key": "dailetimemark",
+        "expirydate": "19-06-2039",
+        "Allowoffline": true
+    },
+    {
         "device_id": "22d3c1b4a24f410e",
         "key": "dailerichy",
         "expirydate": "19-06-2039",
