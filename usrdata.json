@@ -546,6 +546,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "a8f1e05c461f1cc1",
+        "key": "vifonetuongvi",
+        "expirydate": "17-10-2035",
+        "Allowoffline": false
+    },
+    {
         "device_id": "f6a6f083c86e3989",
         "key": "vivo1",
         "expirydate": "26-09-2029",
