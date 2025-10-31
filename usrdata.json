@@ -231,7 +231,7 @@
         "device_id": "ac619a5ea7e16a96",
         "key": "daileofficial",
         "expirydate": "19-06-2039",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "87ee37157fd606a0",
