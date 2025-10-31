@@ -66,6 +66,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "56b27e76068ce3bc",
+        "key": "mcstuanthanh",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
+    },
+    {
         "device_id": "02c3f268385b0d0c",
         "key": "mcsphankhoa",
         "expirydate": "15-06-2027",
