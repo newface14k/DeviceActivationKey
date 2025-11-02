@@ -198,6 +198,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "4a38d0eb7326e03b",
+        "key": "toanrichy",
+        "expirydate": "15-06-2037",
+        "Allowoffline": false
+    },
+    {
         "device_id": "4f29520d2e981662",
         "key": "lanhkarofi",
         "expirydate": "19-10-2035",
