@@ -266,7 +266,7 @@
     {
         "device_id": "ac619a5ea7e16a96",
         "key": "dailetimemark",
-        "expirydate": "19-06-2039",
+        "expirydate": "2-11-2025",
         "Allowoffline": true
     },
     {
@@ -384,7 +384,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "9049a230ea5228fb",
+        "device_id": "85e601a36fee4012",
         "key": "quynhxinh",
         "expirydate": "16-09-2040",
         "Allowoffline": false
