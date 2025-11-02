@@ -270,10 +270,10 @@
         "Allowoffline": false
     },
     {
-        "device_id": "ac619a5ea7e16a96",
-        "key": "dailetimemark",
-        "expirydate": "2-11-2025",
-        "Allowoffline": true
+        "device_id": "c28f398a3e49b18d",
+        "key": "dailevcam",
+        "expirydate": "4-11-2025",
+        "Allowoffline": false
     },
     {
         "device_id": "0b718a312de199fd",
