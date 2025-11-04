@@ -255,7 +255,7 @@
         "device_id": "f9ae4b7ad8946960",
         "key": "dailemi11",
         "expirydate": "19-06-2039",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "87ee37157fd606a0",
