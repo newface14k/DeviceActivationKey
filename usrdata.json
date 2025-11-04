@@ -594,6 +594,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "0b2994a6cff25302",
+        "key": "pgmsphantho",
+        "expirydate": "17-12-2035",
+        "Allowoffline": false
+    },
+    {
         "device_id": "a8f1e05c461f1cc1",
         "key": "vifonetuongvi",
         "expirydate": "17-10-2035",
