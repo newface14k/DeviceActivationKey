@@ -18,7 +18,7 @@
         "Allowoffline": true
     },
     {
-        "device_id": "f9ae4b7ad8946960",
+        "device_id": "9c6990cbce17ab3e",
         "key": "stock",
         "expirydate": "15-06-2066",
         "Allowoffline": true
@@ -248,6 +248,12 @@
     {
         "device_id": "ac619a5ea7e16a96",
         "key": "daileofficial",
+        "expirydate": "19-06-2039",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "f9ae4b7ad8946960",
+        "key": "dailemi11",
         "expirydate": "19-06-2039",
         "Allowoffline": true
     },
