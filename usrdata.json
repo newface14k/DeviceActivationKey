@@ -48,6 +48,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "777b1df57c3ec838",
+        "key": "mcsmrthoai",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
+    },
+    {
         "device_id": "fd18384bbf7b3262",
         "key": "dailemobiw",
         "expirydate": "05-11-2025",
