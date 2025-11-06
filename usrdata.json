@@ -66,6 +66,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "6f8a394173ee7afa",
+        "key": "dailemark1",
+        "expirydate": "05-11-2028",
+        "Allowoffline": false
+    },
+    {
         "device_id": "48bd27f26c371c5f",
         "key": "mcstuandinh",
         "expirydate": "15-06-2045",
