@@ -60,6 +60,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "f0ada2e99510cc5a",
+        "key": "pgmshoanghai",
+        "expirydate": "09-11-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "1ba1c745d3a87cf5",
         "key": "mcssonlam",
         "expirydate": "15-06-2027",
