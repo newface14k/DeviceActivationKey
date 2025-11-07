@@ -561,13 +561,13 @@
         "device_id": "f8a50ea9d176ff99",
         "key": "sfathanhnguyen",
         "expirydate": "19-09-2045",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "8cddbeab3769b825",
         "key": "sfathanhnguyen1",
         "expirydate": "14-10-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "a4c3fa1cb29e3a41",
