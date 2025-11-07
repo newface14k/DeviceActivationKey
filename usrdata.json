@@ -36,6 +36,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "e961f410ad8789c3",
+        "key": "ductrinh",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "04bcb3b6c33cdc41",
         "key": "wincareanpham",
         "expirydate": "13-11-2025",
