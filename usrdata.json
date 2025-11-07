@@ -93,7 +93,7 @@
         "device_id": "f798fa10013be776",
         "key": "mcstrongthin",
         "expirydate": "15-06-2045",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "56b27e76068ce3bc",
