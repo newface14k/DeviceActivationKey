@@ -102,6 +102,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "6572423e677681bb",
+        "key": "dailemcs55",
+        "expirydate": "12-11-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "c0d423cad4181fe6",
         "key": "dailedmsone",
         "expirydate": "07-11-2029",
