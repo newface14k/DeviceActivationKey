@@ -495,7 +495,7 @@
         "device_id": "fb4e104ee87f2f18",
         "key": "haitoshiba",
         "expirydate": "19-09-2040",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "85e601a36fee4012",
