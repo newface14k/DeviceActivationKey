@@ -348,6 +348,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "18bbe39dc9747af4",
+        "key": "tansaleone",
+        "expirydate": "31-12-2035",
+        "Allowoffline": false
+    },
+    {
         "device_id": "87ee37157fd606a0",
         "key": "dailesaleone",
         "expirydate": "01-11-2035",
