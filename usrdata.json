@@ -525,7 +525,7 @@
         "device_id": "85e601a36fee4012",
         "key": "quynhxinh",
         "expirydate": "16-09-2040",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "87923fb5ff6a06fa",
