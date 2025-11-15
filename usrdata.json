@@ -150,6 +150,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "9c0f7851375760af",
+        "key": "saleoneminhanh",
+        "expirydate": "15-06-2045",
+        "Allowoffline": false
+    },
+    {
         "device_id": "48bd27f26c371c5f",
         "key": "mcstuandinh",
         "expirydate": "15-06-2045",
