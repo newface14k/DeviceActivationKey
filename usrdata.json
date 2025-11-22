@@ -93,7 +93,7 @@
         "device_id": "d083d639e128f4f3",
         "key": "lyphuong",
         "expirydate": "16-11-2029",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "828a58a241687458",
