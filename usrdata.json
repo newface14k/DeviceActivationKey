@@ -102,6 +102,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "de581e96c16bb266",
+        "key": "sonbase",
+        "expirydate": "28-11-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "5edcae30c3febbc6",
         "key": "dmsonedaile",
         "expirydate": "12-12-2045",
