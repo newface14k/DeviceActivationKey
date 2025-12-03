@@ -54,6 +54,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "3a4b1c5e78155836",
+        "key": "ducgtm",
+        "expirydate": "14-11-2035",
+        "Allowoffline": false
+    },
+    {
         "device_id": "04bcb3b6c33cdc41",
         "key": "wincareanpham",
         "expirydate": "13-11-2029",
