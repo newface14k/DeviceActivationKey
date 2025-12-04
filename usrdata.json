@@ -134,7 +134,7 @@
     {
         "device_id": "b80bd67e5a7ca5ab",
         "key": "dmsonedaile1",
-        "expirydate": "12-12-2025",
+        "expirydate": "12-12-2035",
         "Allowoffline": false
     },
     {
@@ -731,12 +731,6 @@
         "expirydate": "17-09-2065",
         "Allowoffline": false
     },
-    {
-        "device_id": "a4d4414d1db0803b",
-        "key": "wincaredaile",
-        "expirydate": "06-11-2025",
-        "Allowoffline": false
-    }, 
     {
         "device_id": "25425acd5db0fa24",
         "key": "richy44",
