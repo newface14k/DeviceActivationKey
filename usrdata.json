@@ -126,6 +126,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "ff0372d80f722260",
+        "key": "basedaile",
+        "expirydate": "05-12-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "de581e96c16bb266",
         "key": "sonbase",
         "expirydate": "08-12-2025",
