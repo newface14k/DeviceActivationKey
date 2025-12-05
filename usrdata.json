@@ -78,6 +78,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "79129311499ca55f",
+        "key": "boxphone",
+        "expirydate": "15-11-2028",
+        "Allowoffline": false
+    },
+    {
         "device_id": "d9dc7815287803af",
         "key": "mcstrongthin",
         "expirydate": "15-11-2028",
