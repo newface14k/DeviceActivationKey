@@ -72,6 +72,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "a4d4414d1db0803b",
+        "key": "anphamwincare",
+        "expirydate": "13-11-2029",
+        "Allowoffline": false
+    },
+    {
         "device_id": "d586bb387d1f1755",
         "key": "wincarepham22",
         "expirydate": "19-01-2040",
