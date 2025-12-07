@@ -186,6 +186,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "86b8fbe6adf809dc",
+        "key": "dailemobiw11",
+        "expirydate": "09-12-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "e182f090356a1b0a",
         "key": "dailerichy",
         "expirydate": "29-11-2028",
