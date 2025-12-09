@@ -330,6 +330,12 @@
         "Allowoffline": false
     },  
     {
+        "device_id": "309f2dd3547e0f6f",
+        "key": "lgethanhcuc",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
+    },  
+    {
         "device_id": "a2e450e4e117e133",
         "key": "lgephuocbinh",
         "expirydate": "15-06-2037",
