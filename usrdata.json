@@ -415,9 +415,9 @@
     },
     {
         "device_id": "b0b4278d84b45542",
-        "key": "richy3",
+        "key": "lanngoc",
         "expirydate": "25-02-2030",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "f5c82e3074bb9405",
