@@ -18,6 +18,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "eeaec1e08d280cae",
+        "key": "stockao",
+        "expirydate": "15-06-2044",
+        "Allowoffline": true
+    },
+    {
         "device_id": "f706814dd7179d61",
         "key": "anphamxyz",
         "expirydate": "14-12-2025",
