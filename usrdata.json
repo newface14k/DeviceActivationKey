@@ -36,6 +36,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "4a5fc1bab45029e4",
+        "key": "timemarkhh",
+        "expirydate": "15-06-2044",
+        "Allowoffline": true
+    },
+    {
         "device_id": "cb6ae8023babe6f9",
         "key": "stock",
         "expirydate": "15-06-2044",
