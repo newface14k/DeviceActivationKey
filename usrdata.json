@@ -24,6 +24,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "b59a75ec9c75314f",
+        "key": "richydvt",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "f706814dd7179d61",
         "key": "anphamxyz",
         "expirydate": "14-12-2025",
