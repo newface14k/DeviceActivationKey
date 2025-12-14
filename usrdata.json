@@ -26,13 +26,19 @@
     {
         "device_id": "a3b53ac3cfcb5f79",
         "key": "mcslong",
+        "expirydate": "16-12-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ff4823303f892b00",
+        "key": "mcschamcong",
         "expirydate": "16-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "811cbb52042879ca",
         "key": "mcsmeomeo",
-        "expirydate": "16-12-2025",
+        "expirydate": "16-12-2035",
         "Allowoffline": true
     },
     {
