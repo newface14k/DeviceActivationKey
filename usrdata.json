@@ -121,9 +121,9 @@
     },
     {
         "device_id": "f176dd096cc19c70",
-        "key": "stock",
-        "expirydate": "15-06-2044",
-        "Allowoffline": true
+        "key": "vcamkyc",
+        "expirydate": "15-01-2026",
+        "Allowoffline": false
     },
     {
         "device_id": "fe0cd9b9b7bdc97d",
