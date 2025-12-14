@@ -45,7 +45,7 @@
         "device_id": "9851ed54d31ff746",
         "key": "mcsthaonhi1",
         "expirydate": "17-01-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "f9a5af0934db07b9",
