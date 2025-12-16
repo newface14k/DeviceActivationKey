@@ -48,6 +48,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "678f27dc1795b908",
+        "key": "kundaile",
+        "expirydate": "18-12-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "9021299fcc992df7",
         "key": "mcshungquoc",
         "expirydate": "22-12-2039",
