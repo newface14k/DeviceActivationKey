@@ -30,6 +30,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "2d6b7405cab5cb07",
+        "key": "timemarkthuy",
+        "expirydate": "20-12-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "b779292eba6986ba",
         "key": "mcshieu",
         "expirydate": "16-12-2035",
