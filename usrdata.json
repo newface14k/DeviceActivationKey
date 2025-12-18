@@ -138,6 +138,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "c193a71385cf727c",
+        "key": "timemarkd3",
+        "expirydate": "22-12-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "4102e700bdea693a",
         "key": "timemarkdl1",
         "expirydate": "15-12-2029",
