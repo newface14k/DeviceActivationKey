@@ -42,6 +42,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "6c4226eb2e0dc9df",
+        "key": "timemarkkien",
+        "expirydate": "20-12-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "b779292eba6986ba",
         "key": "mcshieu",
         "expirydate": "16-12-2035",
