@@ -132,6 +132,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "ff8553264af62bc4",
+        "key": "timemarkdl2",
+        "expirydate": "20-12-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "554db5c14c65f58f",
         "key": "timemarktuan",
         "expirydate": "20-12-2025",
