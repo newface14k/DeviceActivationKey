@@ -141,7 +141,7 @@
         "device_id": "554db5c14c65f58f",
         "key": "timemarktuan",
         "expirydate": "20-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "9c72fc6508a1ff37",
@@ -182,8 +182,8 @@
     {
         "device_id": "11b994cad3fe49b8",
         "key": "timemarksubita",
-        "expirydate": "20-12-2025",
-        "Allowoffline": true
+        "expirydate": "23-12-2025",
+        "Allowoffline": false
     },
     {
         "device_id": "c2613b81f4d43490",
