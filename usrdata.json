@@ -98,8 +98,8 @@
     {
         "device_id": "aff580a2570c4444",
         "key": "mi1111",
-        "expirydate": "16-12-2045",
-        "Allowoffline": true
+        "expirydate": "16-02-2044",
+        "Allowoffline": false
     },
     {
         "device_id": "8fe76b9ffa6b049a",
