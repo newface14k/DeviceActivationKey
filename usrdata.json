@@ -146,8 +146,8 @@
     {
         "device_id": "a75d22b51c59d522",
         "key": "timemarkd3",
-        "expirydate": "17-12-2025",
-        "Allowoffline": false
+        "expirydate": "17-12-2045",
+        "Allowoffline": true
     },
     {
         "device_id": "4102e700bdea693a",
