@@ -48,6 +48,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "6e229f55f5b5aa26",
+        "key": "timemarkmi11",
+        "expirydate": "20-02-2035",
+        "Allowoffline": true
+    },
+    {
         "device_id": "6c4226eb2e0dc9df",
         "key": "timemarkkien",
         "expirydate": "21-12-2025",
