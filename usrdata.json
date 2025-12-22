@@ -57,7 +57,7 @@
         "device_id": "6c4226eb2e0dc9df",
         "key": "timemarkkien",
         "expirydate": "21-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "b779292eba6986ba",
