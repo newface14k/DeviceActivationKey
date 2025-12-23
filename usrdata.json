@@ -248,8 +248,8 @@
     {
         "device_id": "11b994cad3fe49b8",
         "key": "timemarksubita",
-        "expirydate": "23-12-2025",
-        "Allowoffline": false
+        "expirydate": "26-12-2025",
+        "Allowoffline": true
     },
     {
         "device_id": "c2613b81f4d43490",
