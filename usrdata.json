@@ -54,6 +54,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "4d10ea0965eb8d91",
+        "key": "timemarkthang",
+        "expirydate": "25-12-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "6c4226eb2e0dc9df",
         "key": "timemarkkien",
         "expirydate": "23-12-2045",
