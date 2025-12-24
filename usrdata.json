@@ -60,6 +60,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "1822e1030a01d4c7",
+        "key": "timemarktanson",
+        "expirydate": "26-12-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "4d10ea0965eb8d91",
         "key": "timemarkthang",
         "expirydate": "25-12-2025",
