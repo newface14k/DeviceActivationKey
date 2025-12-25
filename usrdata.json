@@ -44,8 +44,8 @@
     {
         "device_id": "c2444a2e1140d8d8",
         "key": "kyccam",
-        "expirydate": "11-11-2035",
-        "Allowoffline": true
+        "expirydate": "11-11-2025",
+        "Allowoffline": false
     },
     {
         "device_id": "0664ec96a0a04d83",
