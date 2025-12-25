@@ -21,7 +21,7 @@
         "device_id": "4807f1429a8e57f7",
         "key": "vphone",
         "expirydate": "13-09-2035",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "0249e3cf80a71847",
