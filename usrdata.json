@@ -213,31 +213,31 @@
         "device_id": "4102e700bdea693a",
         "key": "timemarkdl1",
         "expirydate": "15-12-2029",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "74dd8aa5240cfc03",
         "key": "timemarkdl15",
         "expirydate": "27-12-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "79627bf9170ca3b4",
         "key": "timemarkdl4",
         "expirydate": "23-12-2055",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "ff8553264af62bc4",
         "key": "timemarkdl2",
         "expirydate": "20-12-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "554db5c14c65f58f",
         "key": "timemarktuan",
         "expirydate": "10-12-2045",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "9c72fc6508a1ff37",
