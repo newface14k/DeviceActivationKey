@@ -1104,9 +1104,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "7d72dc2aecd0e7f8",
+        "device_id": "c9056d56ea4ba22c",
         "key": "vivo2",
         "expirydate": "26-09-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
