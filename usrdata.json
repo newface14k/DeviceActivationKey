@@ -48,6 +48,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "66cf282b400a61af",
+        "key": "viettelngoc",
+        "expirydate": "01-01-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "0664ec96a0a04d83",
         "key": "mcsduy",
         "expirydate": "15-12-2029",
