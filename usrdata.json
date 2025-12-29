@@ -42,10 +42,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "dd3687d65b89263a",
-        "key": "notetest",
+        "device_id": "b6c0e94ce4545179",
+        "key": "mi14pro",
         "expirydate": "11-11-2045",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "0664ec96a0a04d83",
