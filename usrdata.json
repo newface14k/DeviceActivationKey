@@ -302,7 +302,7 @@
     {
         "device_id": "950a3b37f2c3acc8",
         "key": "wincare66",
-        "expirydate": "01-01-2026",
+        "expirydate": "01-01-2046",
         "Allowoffline": false
     },
     {
@@ -459,12 +459,6 @@
         "device_id": "777b1df57c3ec838",
         "key": "mcsmrthoai",
         "expirydate": "06-11-2029",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "50aacba485eb29f5",
-        "key": "mcsvutruong",
-        "expirydate": "08-12-2025",
         "Allowoffline": false
     },
     {
