@@ -50,8 +50,8 @@
     {
         "device_id": "7cb0e5ea5244f526",
         "key": "viettelngoc",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
     },
     {
         "device_id": "0664ec96a0a04d83",
