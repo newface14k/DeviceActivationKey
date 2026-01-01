@@ -51,7 +51,7 @@
         "device_id": "1294a2d478770b12",
         "key": "tcltienhuynh1",
         "expirydate": "30-12-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "0664ec96a0a04d83",
