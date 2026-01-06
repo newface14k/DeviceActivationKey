@@ -78,6 +78,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "26d97a08a50e6605",
+        "key": "timemarkjoly",
+        "expirydate": "08-01-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "b00248e6c0a52fc6",
         "key": "timemarkchung",
         "expirydate": "29-12-2029",
