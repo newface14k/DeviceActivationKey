@@ -18,10 +18,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "dcf4297ad564ee27",
+        "device_id": "22fa495e6dde23de",
         "key": "test2",
         "expirydate": "13-09-2029",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "eb903dfcbb233be8",
