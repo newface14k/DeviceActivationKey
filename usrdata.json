@@ -36,6 +36,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "7224c565bd7dc44b",
+        "key": "timemarkdongan",
+        "expirydate": "13-01-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "b0c2a6f21a1f983c",
         "key": "toshibadl",
         "expirydate": "04-01-2046",
