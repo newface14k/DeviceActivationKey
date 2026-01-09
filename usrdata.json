@@ -26,7 +26,7 @@
     {
         "device_id": "eb903dfcbb233be8",
         "key": "admin",
-        "expirydate": "13-09-2029",
+        "expirydate": "01-01-2027",
         "Allowoffline": false
     },
     {
@@ -44,7 +44,7 @@
     {
         "device_id": "37b0fa65f5e19f47",
         "key": "timemarkhuygiap",
-        "expirydate": "11-01-2026",
+        "expirydate": "10-01-2026",
         "Allowoffline": true
     },
     {
@@ -56,13 +56,13 @@
     {
         "device_id": "7224c565bd7dc44b",
         "key": "timemarkdongan",
-        "expirydate": "13-01-2026",
+        "expirydate": "10-01-2026",
         "Allowoffline": true
     },
     {
         "device_id": "4c6b21fb25f3cd3e",
         "key": "timemarknhi",
-        "expirydate": "13-01-2026",
+        "expirydate": "10-01-2026",
         "Allowoffline": true
     },
     {
