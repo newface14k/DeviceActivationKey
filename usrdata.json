@@ -48,6 +48,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "5d011c8de25422dc",
+        "key": "timemarkhuy",
+        "expirydate": "12-01-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "37b0fa65f5e19f47",
         "key": "timemarkhuygiap",
         "expirydate": "12-01-2029",
