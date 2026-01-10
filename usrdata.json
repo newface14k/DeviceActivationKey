@@ -24,6 +24,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "b46b77865049ac9d",
+        "key": "test3",
+        "expirydate": "13-09-2029",
+        "Allowoffline": true
+    },
+    {
         "device_id": "eb903dfcbb233be8",
         "key": "admin",
         "expirydate": "01-01-2027",
