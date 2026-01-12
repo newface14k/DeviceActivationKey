@@ -42,6 +42,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "50aacba485eb29f5",
+        "key": "mcsvutruong",
+        "expirydate": "13-01-2046",
+        "Allowoffline": false
+    },
+    {
         "device_id": "d4cde0ac74e33474",
         "key": "timemarkdoi",
         "expirydate": "13-09-2029",
