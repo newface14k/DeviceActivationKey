@@ -60,6 +60,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "69a9ceab3cdc2d5a",
+        "key": "timemarktuan",
+        "expirydate": "13-01-2056",
+        "Allowoffline": true
+    },
+    {
         "device_id": "58ba8e5ed6c65143",
         "key": "timemarkthoa",
         "expirydate": "13-01-2056",
