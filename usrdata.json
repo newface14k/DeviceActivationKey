@@ -60,6 +60,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "3b4aa7b37ba9ab99",
+        "key": "timemarklinhngo",
+        "expirydate": "17-01-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "69a9ceab3cdc2d5a",
         "key": "timemarktuan",
         "expirydate": "15-01-2056",
