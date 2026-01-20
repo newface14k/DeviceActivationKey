@@ -72,12 +72,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "3b4aa7b37ba9ab99",
-        "key": "timemarklinhngo",
-        "expirydate": "17-01-2026",
-        "Allowoffline": true
-    },
-    {
         "device_id": "69a9ceab3cdc2d5a",
         "key": "timemarktuan",
         "expirydate": "15-01-2056",
@@ -147,12 +141,6 @@
         "device_id": "068af88fa85eba90",
         "key": "k30ultra",
         "expirydate": "11-11-2035",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "baf083d71458b37b",
-        "key": "note11",
-        "expirydate": "07-01-2036",
         "Allowoffline": true
     },
     {
@@ -300,12 +288,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "a712908485f9681d",
-        "key": "mcsthaonhi",
-        "expirydate": "16-01-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "9851ed54d31ff746",
         "key": "mcsthaonhi1",
         "expirydate": "17-01-2036",
@@ -414,12 +396,6 @@
         "Allowoffline": true
     },
     {
-        "device_id": "fefb63ffdecb8410",
-        "key": "vcamkyc",
-        "expirydate": "15-01-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "fe0cd9b9b7bdc97d",
         "key": "wincare2",
         "expirydate": "15-06-2029",
@@ -525,12 +501,6 @@
         "device_id": "f0ada2e99510cc5a",
         "key": "pgmshoanghai",
         "expirydate": "11-11-2035",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "3f9f386cf26002e5",
-        "key": "semproth",
-        "expirydate": "15-06-2027",
         "Allowoffline": false
     },
     {
@@ -851,12 +821,6 @@
         "expirydate": "25-02-2030",
         "Allowoffline": false
     }, 
-    {
-        "device_id": "ac619a5ea7e16a96",
-        "key": "daileofficial",
-        "expirydate": "19-06-2039",
-        "Allowoffline": true
-    },
     {
         "device_id": "0249e3cf80a71847",
         "key": "dailemi14",
