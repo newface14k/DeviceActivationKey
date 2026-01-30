@@ -1101,19 +1101,19 @@
         "device_id": "ca20385ede563d88",
         "key": "sfabinhkun",
         "expirydate": "14-09-2045",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "fdb6eeab16a36824",
         "key": "sfathanhmai33",
         "expirydate": "14-09-2045",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "685e34f570f65fa0",
         "key": "sfathanhmai",
         "expirydate": "14-09-2045",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "f8a50ea9d176ff99",
