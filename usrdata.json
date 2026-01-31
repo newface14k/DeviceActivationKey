@@ -18,12 +18,6 @@
         "Allowoffline": true
     },
     {
-        "device_id": "445c5215657fc474",
-        "key": "test2",
-        "expirydate": "13-09-2029",
-        "Allowoffline": true
-    },
-    {
         "device_id": "a983d15ae2aa85aa",
         "key": "hungtk",
         "expirydate": "13-09-2029",
@@ -57,12 +51,6 @@
         "device_id": "d4cde0ac74e33474",
         "key": "timemarkdoi",
         "expirydate": "13-09-2029",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "445c5215657fc747",
-        "key": "mi11",
-        "expirydate": "16-01-2076",
         "Allowoffline": true
     },
     {
