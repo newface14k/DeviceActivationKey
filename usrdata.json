@@ -420,12 +420,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "11b994cad3fe49b8",
-        "key": "timemarksubita",
-        "expirydate": "26-12-2065",
-        "Allowoffline": true
-    },
-    {
         "device_id": "c2613b81f4d43490",
         "key": "dtpviettel031225",
         "expirydate": "05-12-2029",
