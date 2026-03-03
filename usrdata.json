@@ -32,8 +32,8 @@
     {
         "device_id": "34f4aa6ec04cc229",
         "key": "admindaile",
-        "expirydate": "01-01-2027",
-        "Allowoffline": false
+        "expirydate": "01-01-2199",
+        "Allowoffline": true
     },
     {
         "device_id": "9e4dc611ffd6774b",
