@@ -30,7 +30,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "34f4aa6ec04cc229",
+        "device_id": "d7dda0ad74319a1d",
         "key": "admindaile",
         "expirydate": "01-01-2199",
         "Allowoffline": true
@@ -105,12 +105,6 @@
         "device_id": "4aa7d04055d8616e",
         "key": "timemarkhamy",
         "expirydate": "12-01-2046",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d7dda0ad74319a1d",
-        "key": "timemark1111",
-        "expirydate": "03-03-2026",
         "Allowoffline": true
     },
     {
