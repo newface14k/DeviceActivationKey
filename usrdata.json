@@ -30,6 +30,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "582c635f895a2f97",
+        "key": "admin1",
+        "expirydate": "01-01-2027",
+        "Allowoffline": true
+    },
+    {
         "device_id": "d7dda0ad74319a1d",
         "key": "admindaile",
         "expirydate": "01-01-2199",
