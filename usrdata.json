@@ -744,10 +744,10 @@
         "Allowoffline": false
     },
     {
-        "device_id": "4a38d0eb7326e03b",
-        "key": "toanrichy",
+        "device_id": "bec37f98fa1d4258",
+        "key": "tansopoka",
         "expirydate": "15-06-2037",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "4f29520d2e981662",
