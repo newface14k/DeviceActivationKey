@@ -48,6 +48,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "7d397faea5950916",
+        "key": "mcshoangphuong",
+        "expirydate": "01-01-2199",
+        "Allowoffline": true
+    },
+    {
         "device_id": "8b93d1028967f85a",
         "key": "vang",
         "expirydate": "02-05-2026",
