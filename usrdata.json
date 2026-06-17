@@ -18,12 +18,6 @@
         "Allowoffline": true
     },
     {
-        "device_id": "0000000000000000",
-        "key": "adminmtr",
-        "expirydate": "13-09-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "7cdc575032998b5d",
         "key": "Thuongnote11",
         "expirydate": "01-01-2029",
