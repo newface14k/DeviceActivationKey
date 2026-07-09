@@ -435,7 +435,7 @@
         "device_id": "fb0544eb0ea03d7f",
         "key": "duylgmd22",
         "expirydate": "24-12-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "260bf9c6ab6598ea",
