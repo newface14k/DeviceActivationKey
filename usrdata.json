@@ -702,10 +702,10 @@
         "Allowoffline": false
     },
     {
-        "device_id": "18bbe39dc9747af4",
+        "device_id": "9570bb7ba12ba0f6",
         "key": "tansaleone",
         "expirydate": "31-12-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "87ee37157fd606a0",
@@ -1029,12 +1029,6 @@
         "device_id": "8ecbf8f54c1c4304",
         "key": "nguyensopoka",
         "expirydate": "17-10-2035",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "0b2994a6cff25302",
-        "key": "pgmsphantho",
-        "expirydate": "18-12-2030",
         "Allowoffline": false
     },
     {
