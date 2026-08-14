@@ -792,24 +792,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "ca20385ede563d88",
-        "key": "sfabinhkun",
-        "expirydate": "14-09-2045",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "fdb6eeab16a36824",
-        "key": "sfathanhmai33",
-        "expirydate": "14-09-2045",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "685e34f570f65fa0",
-        "key": "sfathanhmai",
-        "expirydate": "14-09-2045",
-        "Allowoffline": true
-    },
-    {
         "device_id": "f8a50ea9d176ff99",
         "key": "sfathanhnguyen",
         "expirydate": "19-11-2029",
@@ -836,12 +818,6 @@
     {
         "device_id": "574d972a309dbd51",
         "key": "sfahang1",
-        "expirydate": "17-09-2035",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "371d1d15960c42c6",
-        "key": "sfanguyenquan1",
         "expirydate": "17-09-2035",
         "Allowoffline": false
     },
