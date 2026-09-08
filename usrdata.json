@@ -26,7 +26,13 @@
     {
         "device_id": "f9283158ec90e0d1",
         "key": "tungnguyen",
-        "expirydate": "21-09-2055",
+        "expirydate": "09-09-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "f9283158ec90e0d1",
+        "key": "tungnguyen1",
+        "expirydate": "23-06-2045",
         "Allowoffline": true
     },
     {
