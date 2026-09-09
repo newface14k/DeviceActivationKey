@@ -24,6 +24,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "c9c9b7c1f4829381",
+        "key": "kirin2",
+        "expirydate": "21-09-2036",
+        "Allowoffline": true
+    },
+    {
         "device_id": "f9283158ec90e0d1",
         "key": "tungnguyen",
         "expirydate": "13-09-2026",
